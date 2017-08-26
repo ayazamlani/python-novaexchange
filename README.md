@@ -1,6 +1,6 @@
 # python-novaexchange
 
-Python bindings for novaexchange.com
+Python bindings for [novaexchange.com](https://goo.gl/NDdxCa)
 
 I recommend starting with only read-only permissions for your security.
 
@@ -8,6 +8,9 @@ I am not associated with novaexchange.
 
 Follow me on [twitter](https://twitter.com/ayazamlani)
 for updates
+
+You will need to have [requests](http://docs.python-requests.org/en/master/user/install/#install) installed
+
 
 ######Donations Are Appreciated######
 
