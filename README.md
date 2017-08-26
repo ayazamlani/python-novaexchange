@@ -11,7 +11,7 @@ for updates
 
 ######Donations Are Appreciated######
 
-If you use this excel to track your progress and would like to donate :)
+If you use this and would like to donate :)
 
 * BTC: 161UkWiXmsgTXrNzJRzQDTwPJwxLDANT6g
 * ETH: 0x3ae1976496Ed1757e82ba3C362d284F1E7514FB7
