@@ -96,8 +96,6 @@ class NovaExchange(object):
         """
         return self.api_query('market/orderhistory/' + str(market))
 
-    # UnicodeEncodeError: 'ascii' codec can't encode characters in position 12918-12919: ordinal not in range(128)
-
     def market_open_orders(self, market, ordertype):
         """
         Used to retrieve the open orders for
