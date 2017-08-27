@@ -116,7 +116,7 @@ class NovaExchange(object):
         """
         order_options = ['BUY', 'SELL', 'BOTH']
         if str(ordertype) in order_options:
-            return self.api_query(('market/openorders/' + str(market)), req={'ordertype': str(ordertype)})
+            return self.api_query(('market/openorders/' + str(market) + '/' + str(ordertype)))
         else:
             return(ordertype, 'is not a valid ordertype. please use BUY, SELL, or BOTH.')
 
