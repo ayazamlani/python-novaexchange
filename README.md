@@ -1,6 +1,6 @@
 # python-novaexchange
 
-Python bindings for [novaexchange.com](https://goo.gl/NDdxCa)
+Python bindings for [novaexchange.com](https://goo.gl/sAfNFN)
 
 I recommend starting with only read-only permissions for your security.
 
