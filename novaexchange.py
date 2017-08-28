@@ -258,16 +258,18 @@ class NovaExchange(object):
         """
         Used to trade currency on NovaExchange.
 
-        #4 required parameters
+        #5 required parameters
+        market: string
         tradetype: string (BUY or SELL)
         tradeamount: float
         tradeprice: float
         tradebase: int (Set as 0 for market currency or 1 for basecurrency as tradeamount)
 
         example:
+        "market": "BTC_ONION"
         "tradetype": "SELL"
         "tradeamount": 8000.00000000
-        "tradeprice": 0.00000008
+        "tradeprice": 0.00006
         "tradebase": 0
 
         :return: Info on the trade in JSON
