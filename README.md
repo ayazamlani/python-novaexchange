@@ -15,8 +15,6 @@ I recommend setting API permissions to view-only for your security.
 
 ######Donations Are Appreciated######
 
-If you use this and would like to donate :)
-
 * BTC: 161UkWiXmsgTXrNzJRzQDTwPJwxLDANT6g
 * ETH: 0x3ae1976496Ed1757e82ba3C362d284F1E7514FB7
 * LTC: LPsAokUUzksyBH85vwrMc7gL29ojj8HCVo
