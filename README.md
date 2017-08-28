@@ -3,6 +3,7 @@
 Python bindings for [novaexchange.com](https://goo.gl/sAfNFN)
 
 [How to Use Python with NovaExchange](https://youtu.be/3nOqgq_ubyc)
+
 [Beginner's Guide to NovaExchange](https://www.youtube.com/watch?v=MP3Mt1ftK0o&t=53s)
 
 Make sure you have installed [requests](http://docs.python-requests.org/en/master/user/install/#install)
