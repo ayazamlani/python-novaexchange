@@ -1,10 +1,10 @@
 # python-novaexchange
 
-Python bindings for [novaexchange.com](https://goo.gl/sAfNFN)
+Python bindings for [novaexchange.com](https://novaexchange.com/?re=famonom9sr00szdik867)
 
 [How to Use Python with NovaExchange](https://youtu.be/3nOqgq_ubyc)
 
-[Beginner's Guide to NovaExchange](https://www.youtube.com/watch?v=MP3Mt1ftK0o&t=53s)
+[Beginner's Guide to NovaExchange](https://youtu.be/MP3Mt1ftK0o)
 
 Make sure you have installed [requests](http://docs.python-requests.org/en/master/user/install/#install)
 
