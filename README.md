@@ -2,7 +2,7 @@
 
 Python bindings for [novaexchange.com](https://novaexchange.com/?re=famonom9sr00szdik867)
 
-[How to Use Python with NovaExchange](https://youtu.be/NFe5d2om-jI)
+[tutorial](https://youtu.be/NFe5d2om-jI)
 
 [Beginner's Guide to NovaExchange](https://youtu.be/MP3Mt1ftK0o)
 
